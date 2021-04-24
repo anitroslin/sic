@@ -1,0 +1,5 @@
+PGM	&Q,&R,&P
+LDA	?1
+STA	?2
+LDT	?3
+MEND
